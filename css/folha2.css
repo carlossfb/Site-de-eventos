@@ -1,0 +1,49 @@
+	#mained{
+		padding-top: 20px;
+		display: flex;
+		justify-content: center;
+	}
+	#teste{
+		padding-top: 150px;
+		display: flex;
+		justify-content: center;
+	}
+	.header{
+		height: 60vh;
+	}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {
+	.card{
+		width:22rem;
+	}
+}
+
+@media (min-width: 992px)
+{ 
+	#actived{
+		border-bottom: solid 5px #fff;
+	}
+	#main{
+			width:50%;
+	}
+	.link{
+		margin-left:15px;
+	}
+	.card{
+		width:25rem;
+	}
+}
+
+@media (min-width: 1020px) {
+	.card{
+		width:24rem;
+	}
+}
+
+@media (min-width: 1300px) {
+	.card{
+		width:23rem;
+	}
+}

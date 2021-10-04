@@ -1,0 +1,34 @@
+#img-b{
+		border-radius:50%;
+		overflow:hidden;
+		width:auto;
+	}
+	section{
+		width: 100%;
+	}
+
+		footer{
+			height: auto;
+			background: #191616c9;
+			width:100%;
+		}
+		.footer{
+
+			height:40px;
+			background: #0a0a0a;
+			width:100%;
+		}
+
+.myul{
+	list-style:none;
+}
+.myul li{
+	--background-color:#252020;
+	padding:5px;
+	--margin:5px;
+	--border:solid 1px;
+}
+.myul li:hover{
+	--background-color:#0c0b0b;
+	transition:all linear 1s;
+}

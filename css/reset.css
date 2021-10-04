@@ -1,0 +1,79 @@
+html, body{
+		margin:0;
+		padding:0;
+		height:100%;
+		width:100%;
+}
+
+
+#over{
+	overflow:hidden;
+}
+.none{
+	display:none;
+}
+	#site1,#site2{
+		background-size:cover;
+		background-attachment: fixed;		
+		height:100%;
+	}
+	#site1{
+		/*background-image: url(https://images.wallpaperscraft.com/image/michael_jackson_suit_hat_dance_colors_3675_1280x720.jpg);*/
+		background-image: url(https://images.wallpaperscraft.com/image/silhouette_art_sky_129925_1280x720.jpg);
+	}	
+	.banner{
+		background-image: url(../imagens/f.jpg);
+	}	
+	#site2{
+		background-image: url(https://images.wallpaperscraft.com/image/wolf_silhouette_hills_130119_1280x720.jpg);
+	}
+
+
+
+.new-btn, .new-btn2, .new-bt4{
+		border-radius: 30px;
+		transition: all linear 0.3s;
+		width:90%;
+}
+.new-btn:hover, .new-btn4:hover,.new-btn3:hover,.new-btn2:hover{
+		position: relative;
+		top: -2px;
+}
+@media(max-width:385px){
+	#avanc{
+		margin-bottom:100px;
+		height:200px;
+		width:100%;
+	}
+}
+@media(max-width:500px){
+	#avanc{
+		margin-bottom:100px;
+		height:200px;
+		width:100%;
+	}
+}
+@media(max-height:500px){
+	#avanc{
+		margin-bottom:100px;
+		height:300px;
+		width:100%;
+	}
+}
+
+.index1{
+	z-index:100;
+}
+
+.index-{
+	z-index:-100;
+}
+@media(max-height:450px){
+	.card-off{
+		display:none;
+	}
+}
+
+.cor{
+	background-color:#5a3487;
+}

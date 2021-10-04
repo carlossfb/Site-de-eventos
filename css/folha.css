@@ -1,0 +1,67 @@
+	body{
+		background-color: #000;
+	}
+	#botao{
+		width: 40%;
+		border-radius: 30px;
+		transition: all linear 0.3s;
+	}
+	#botao:hover{
+		position: relative;
+		background:rgb(187, 20, 36);
+		top: -1px;
+	}
+	#site{
+		background-image: url(../imagens/cc.jpg);
+		background-size:cover;
+		background-attachment: fixed;		
+		height:100%;
+	}	
+	#teste{
+		padding-top: 150px;
+		display: flex;
+		justify-content: center;
+	}
+	#load{
+		position: absolute;
+		top:37%;
+		left: 40%;
+	}
+	#loading{
+		position:absolute;
+		top:0;
+		bottom:0;
+		right:0;
+		left:0;
+		z-index:11;
+		background-color: #000;
+		width:100%;
+		height:100%;
+	}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px)
+{ 
+	#actived:hover{
+		border-bottom: solid 5px #ffffffc2;
+	}
+	#actived{
+		border-bottom: solid 5px #fff;
+	}
+	#main{
+		width:50%;
+	}
+	.link{
+		margin-left:15px;
+	}
+	#load{
+		position: absolute;
+		top:37%;
+		left: 48%;
+	}
+}
+
+@media (min-width: 1200px) {}

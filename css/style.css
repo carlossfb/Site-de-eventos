@@ -1,0 +1,60 @@
+	header{
+		height:100vh;
+	}
+	.footer,.comment,.banner{
+		background-color:#f0f0f0;
+		width:100%;
+	}
+	.banner2{
+		background:transparent;
+	}
+	/*Class para espaçamento*/
+	.space{
+		height:300px;
+	}
+	/*botao personalizado*/
+	.button1{
+		color: #fff;
+		background-color:#7c39c9;
+		transition:linear all 0.6s;
+	}
+	.button1:hover{
+		background-color:#fff;
+		color:#7c39c9;
+		border:solid 1px #7c39c9;
+	}
+	
+	/*padding e estilização da nav*/
+	#nav{
+		padding:30px 10px;
+		transition: 0.4s;
+	}
+	/*definir fontsize do sextou*/
+	#logo{
+		font-size:35px;
+		transition:all linear 0.4s;
+	}
+	
+	/*background branco transparente*/
+	.con{
+		background-color:#fffc;
+	}
+	/*definir largura do card via class*/
+	.width{
+		width:18rem;
+	}
+	.width1{
+		width:26rem;
+	}
+	
+	/*breakpoint para arrumar sobreposição do card pela section*/
+	@media(min-width: 500px) {
+	  #row{
+		  margin-top: 500px;
+	  }
+	@media(min-width: 600px) {
+	  #row{
+		  margin-top: auto;
+	  }
+	  
+	}

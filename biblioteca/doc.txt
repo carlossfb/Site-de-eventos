@@ -1,0 +1,62 @@
+﻿//Fontes
+
+https://fontawesome.com/start -> icones
+
+https://pt.shopify.com/burst/imagens-sem-direitos-autorais -> imagens
+
+http://www.devwilliam.com.br/php/enviar-e-mails-localhost-com-php-e-phpmailer -> email php
+
+https://www.youtube.com/watch?v=gor2j4muG8A -> phpmailer celke
+
+Zero Bugs -> paginação de divs
+
+Cesar Szpak - Celke - cesar@celke.com.br -> sistema de paginação
+
+getbootstrap.com -> front-end -> css/grid
+
+https://www.youtube.com/watch?reload=9&v=-B1L0O6S-88
+
+
+https://www.youtube.com/watch?v=xvM402etG9s
+
+https://viacep.com.br/exemplo/jquery/
+
+
+https://pt.stackoverflow.com/questions/76686/verificar-se-o-email-preenchido-já-existe-no-banco-de-dados-sem-refresh
+
+-> verificar se tem email no bd
+
+
+http://www.guj.com.br/t/comparar-senha-com-javascript/332010
+onblur
+
+https://stackoverflow.com/questions/9093992/change-html-input-type-by-js ->alterar type do input de acordo com a senhas
+
+https://icons8.com/preloaders/
+
+EspecializaTI // youtube
+ addslashes
+file_exists -> impedir php injection
+csrf
+select-> ataque XSS ->htmlspecialchars($dados['nome']);
+
+https://www.devmedia.com.br/como-funciona-a-criptografia-hash-em-java/31139
+
+
+
+saiba mais https://icons8.com.br
+
+
+//linguagens
+
+php -> back-end
+
+mysqli -> back-end -> Banco de Dados
+
+jquery/javascript -> back-end
+
+html5 -> organização
+
+folha de estilos -> css
+
+
